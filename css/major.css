@@ -1,0 +1,35 @@
+.viky{
+  width:52.2%;
+}
+.Text h2{
+  padding: 50px 0px 0px;
+font-size: 50px;
+text-align: center;
+color: cadetblue;
+}
+#footer-image{
+  max-width: 300px;
+}
+}
+.footer-content.elmore h3{
+  text-align: left;
+  color:cadetblue;
+}
+.footer-content.elmore {
+    text-align: left;
+}
+.item{
+  font-size:20px;
+}
+.btn{
+      line-height: 44px;
+      height: 44px;
+      min-width: 170px;
+      font-size: 16px;
+      padding: 0;
+}
+#feedback{
+  text-align: center;
+  color: cadetblue;
+ padding:30px;
+}

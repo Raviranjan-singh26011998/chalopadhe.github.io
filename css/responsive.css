@@ -1,0 +1,1433 @@
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0;
+    width: 1400px;
+}
+@media (max-width: 1890px) {
+  .service ul li .service-box {
+      height: 484px;
+  }
+  .service-img-box h4 {
+      font-size: 52px;
+      line-height: 52px;
+  }
+  .service ul li {
+      max-width: 32.7%;
+  }
+  .cart-box-inner h2 {
+      font-size: 34px;
+      letter-spacing: 1px;
+      margin-bottom: 25px;
+  }
+  .cart-box-inner p {
+      font-size: 20px;
+      letter-spacing: 0.4px;
+      margin: 0px 0px 30px;
+      line-height: 29px;
+  }
+  .banner-slider {
+      position: relative;
+      height: 590px;
+  }
+}
+@media (max-width: 1680px) {
+  .main-footer .container {
+      width: 68%;
+  }
+  .testimonial-content::after {
+      top: -9px;
+      right: 0;
+      left: -40px;
+      bottom: 0;
+      height: 66px;
+      width: 82px;
+      background-size: 80px;
+  }
+  .testimonial-slider .slick-dots {
+      bottom: -70px;
+  }
+  .testimonial-content strong {
+      font-size: 22px;
+  }
+  .testimonial-content::before {
+      bottom: -14px;
+      height: 76px;
+      width: 84px;
+      background-size: 90px;
+      right: -25px;
+  }
+  .testimonial {
+      padding: 90px 0 170px;
+  }
+  .testimonial-content {
+      padding: 40px 60px;
+  }
+  .coastal-inner h3 {
+      font-size: 40px;
+      line-height: 48px;
+  }
+  .banner-slider {
+      position: relative;
+      height: 520px;
+  }
+  .about-info h2 {
+      font-size: 52px;
+  }
+  .btn {
+      line-height: 60px;
+      height: 56px;
+      min-width: 210px;
+      font-size: 20px;
+  }
+  .free-consultation-section h2 {
+      font-size: 48px;
+      letter-spacing: 1px;
+      margin-bottom: 30px;
+  }
+  .portfolio-section .nav-tabs li a {
+      font-size: 30px;
+  }
+  .coastal-inner span {
+      font-size: 33px;
+      letter-spacing: 0.5px;
+  }
+  .coastal-section {
+      height: 560px;
+  }
+  .coastal-content::before {
+      position: absolute;
+      content: '';
+      top: 130px;
+      right: 100px;
+      left: auto;
+      border-bottom: 3px solid #fff;
+      width: 190px;
+  }
+  .coastal-content::after {
+      position: absolute;
+      content: '';
+      top: 130px;
+      right: auto;
+      left: 100px;
+      border-bottom: 3px solid #fff;
+      width: 190px;
+  }
+  .coastal-inner p {
+      font-size: 40px;
+      letter-spacing: 0.5px;
+      padding-top: 70px;
+  }
+  .coastal-inner h2 {
+    font-size: 90px;
+    letter-spacing: 3px;
+    line-height: 134px;
+    padding-top: 60px;
+  }
+  .portfolio-section {
+      padding-bottom: 160px;
+  }
+  .portfolio-img {
+      padding: 0px 15px;
+      max-width: 33.33%;
+      margin: 20px 0px 10px;
+  }
+  .about-quotes p {
+      letter-spacing: 1px;
+      font-size: 36px;
+      max-width: 60%;
+      margin: auto;
+      line-height: 44px;
+  }
+  .free-consultation-section {
+      padding: 90px 0px;
+  }
+  .heading-block h2 {
+      font-size: 42px;
+  }
+  .about-quotes {
+      margin-top: 45px;
+  }
+  .about {
+      padding: 90px 0px 60px;
+  }
+  .cart-box-inner p {
+    font-size: 18px;
+    letter-spacing: 0.4px;
+    margin: 0px 0px 20px;
+    line-height: 25px;
+  }
+  .cart-box-inner h2 {
+    font-size: 28px;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+  }
+  .service-img-box h4 {
+      font-size: 40px;
+      line-height: 46px;
+  }
+  .service ul li .service-box {
+      height: 414px;
+  }
+  .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0;
+      width: 1200px;
+  }
+  .header-nav ul li a {
+      font-size: 23px;
+  }
+  .header-nav ul li {
+      margin: 0px 22px;
+  }
+  .slider-contant h1 {
+    font-size: 69px;
+    line-height: 69px;
+  }
+}
+
+@media (max-width: 1439px) {
+  .heading-block {
+      margin-bottom: 25px;
+  }
+  .free-consultation-section h2 {
+      font-size: 40px;
+      letter-spacing: 1px;
+      margin-bottom: 20px;
+  }
+  .free-consultation-section {
+      padding: 70px 0px;
+  }
+  .container {
+      max-width: 1100px;
+      width: 1100px;
+  }
+  .portfolio-section .nav-tabs li a {
+      font-size: 28px;
+  }
+  .portfolio-section {
+      padding-bottom: 130px;
+  }
+  .coastal-section {
+      height: 520px;
+  }
+  .coastal-inner h3 {
+      font-size: 38px;
+      line-height: 46px;
+  }
+  .coastal-content::after {
+      top: 110px;
+      left: 100px;
+      width: 150px;
+  }
+  .coastal-content::before {
+      top: 110px;
+      right: 100px;
+      width: 150px;
+  }
+  .testimonial-content strong {
+      font-size: 21px;
+  }
+  .testimonial {
+      padding: 80px 0 140px;
+  }
+  .testimonial-slider .slick-dots {
+      bottom: -60px;
+  }
+  .testimonial-content p {
+      font-size: 22px;
+      letter-spacing: 1px;
+      line-height: 32px;
+  }
+  .coastal-inner p {
+      font-size: 36px;
+      letter-spacing: 0.5px;
+      padding-top: 60px;
+  }
+  .coastal-inner h2 {
+      font-size: 120px;
+      letter-spacing: 3px;
+      line-height: 104px;
+      padding-top: 50px;
+  }
+  .btn {
+      line-height: 50px;
+      height: 50px;
+      min-width: 200px;
+      font-size: 18px;
+  }
+  .header-nav ul li a {
+      font-size: 20px;
+  }
+  .header-nav ul li {
+      margin: 0px 18px;
+  }
+  .about-info h2 {
+      font-size: 46px;
+  }
+  .about-quotes p {
+      letter-spacing: 1px;
+      font-size: 34px;
+      max-width: 62%;
+  }
+  .service-img-box h4 {
+      font-size: 34px;
+      line-height: 36px;
+  }
+  .cart-box-inner {
+      max-width: 90%;
+  }
+  .cart-box-inner h2 {
+      font-size: 24px;
+      letter-spacing: 1px;
+      margin-bottom: 12px;
+  }
+  .cart-box-inner p {
+      font-size: 17px;
+      letter-spacing: 0.2px;
+      margin: 0px 0px 24px;
+      line-height: 23px;
+  }
+  .service ul li .service-box {
+      height: 364px;
+  }
+  .heading-block h2 {
+      font-size: 38px;
+  }
+  .about {
+      padding: 80px 0px 50px;
+  }
+  .slider-contant {
+      top: 160px;
+  }
+  .logo a {
+      width: 100px;
+  }
+  .slider-contant p {
+      font-size: 26px;
+      margin: 0 0px 0px;
+  }
+  .slider-contant h1 {
+      font-size: 56px;
+      line-height: 58px;
+  }
+  .banner-slider {
+      position: relative;
+      height: 468px;
+  }
+  .get-free-inner h2 {
+      font-size: 46px;
+  }
+  .get-free-inner p {
+      font-size: 19px;
+      line-height: 13px;
+      margin-bottom: 0;
+  }
+  .get-free-inner {
+      max-width: 750px;
+      padding: 42px 30px;
+  }
+  .get-free-section {
+      height: 700px;
+  }
+  footer.main-footer {
+      padding: 38px 0 0;
+  }
+  .main-footer .logo {
+      padding-bottom: 18px;
+      width: 30%;
+  }
+  .main-footer h3 {
+      font-size: 28px;
+  }
+  .main-footer a {
+      font-size: 22px;
+      line-height: 34px;
+  }
+  .footer-bottom {
+      margin-top: 15px;
+  }
+}
+@media (max-width: 1279px) {
+  .service ul li .service-box {
+      height: 334px;
+  }
+  .cart-box-inner p {
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    margin: 0px 0px 24px;
+    line-height: 22px;
+  }
+  .service-img-box h4 {
+      font-size: 30px;
+      line-height: 32px;
+  }
+  .banner-slider {
+      position: relative;
+      height: 438px;
+  }
+  .slider-contant {
+      top: 140px;
+  }
+}
+@media (max-width: 1199px) {
+
+  .cart-box-inner h2 {
+      font-size: 20px;
+      letter-spacing: 1px;
+      margin-bottom: 9px;
+  }
+  .service-img-box h4 {
+      font-size: 24px;
+      line-height: 27px;
+  }
+  .cart-box-inner p {
+      font-size: 15px;
+      letter-spacing: 0.1px;
+      margin: 0px 0px 17px;
+      line-height: 18px;
+  }
+  .modal-img img {
+      height: 446px;
+      object-fit: cover;
+  }
+  .modal-img {
+      margin-top: -1px;
+      width: 50%;
+  }
+  .modal-inner p {
+      font-size: 14px!important;
+  }
+  .modal-inner h2 {
+      font-size: 35px!important;
+  }
+  .modal-inner .get-free-inner {
+      margin-right: auto;
+      width: 90%;
+      margin: 0;
+  }
+  .modal-dialog {
+      max-width: 830px;
+  }
+  .main-footer a {
+      font-size: 20px;
+      line-height: 34px;
+  }
+  .get-free-section {
+      height: 640px;
+  }
+  .contact-form .form-control {
+      height: 46px;
+      width: 100%;
+      margin-bottom: 15px;
+      padding: 16px 14px;
+  }
+  .contact-form textarea.form-control {
+      height: 122px !important;
+      padding: 12px 14px;
+  }
+  .footer-bottom p {
+      font-size: 15px;
+  }
+  .footer-bottom {
+      margin-top: 12px;
+      padding: 6px 0;
+  }
+  .main-footer h3 {
+      font-size: 24px;
+  }
+  .contact-form .btn.btn-primary {
+      height: 50px;
+      font-size: 18px;
+  }
+  .get-free-inner p {
+      font-size: 17px;
+      line-height: 13px;
+      margin-bottom: 0;
+  }
+  .get-free-inner {
+      max-width: 670px;
+      padding: 32px 30px;
+  }
+  .get-free-inner h2 {
+      font-size: 42px;
+  }
+  .coastal-content::before {
+      top: 80px;
+      right: 120px;
+      width: 120px;
+  }
+  .coastal-content::after {
+      top: 80px;
+      left: 120px;
+      width: 120px;
+  }
+  .coastal-section {
+      height: 450px;
+  }
+  .testimonial-content p {
+      font-size: 20px;
+      letter-spacing: 0.5px;
+      line-height: 28px;
+  }
+  .testimonial-content strong {
+      font-size: 20px;
+  }
+  .portfolio-img {
+      padding: 0px 10px;
+      max-width: 33.33%;
+      margin: 12px 0px 10px;
+  }
+  .portfolio-section {
+      padding-bottom: 100px;
+  }
+  .coastal-inner span {
+      font-size: 24px;
+      letter-spacing: 0.5px;
+  }
+  .coastal-inner h2 {
+      font-size: 90px;
+      letter-spacing: 3px;
+      line-height: 74px;
+      padding-top: 40px;
+  }
+  .coastal-inner p {
+      font-size: 28px;
+      letter-spacing: 0.5px;
+      padding-top: 50px;
+  }
+  .coastal-inner h3 {
+      font-size: 30px;
+      line-height: 44px;
+  }
+  .btn {
+      line-height: 44px;
+      height: 44px;
+      min-width: 170px;
+      font-size: 16px;
+      padding: 0;
+  }
+  .free-consultation-section {
+      padding: 60px 0px;
+  }
+  .heading-block h2 {
+      font-size: 34px;
+  }
+  .portfolio-section .nav-tabs li a {
+      font-size: 24px;
+  }
+  .free-consultation-section h2 {
+      font-size: 30px;
+      letter-spacing: 1px;
+      margin-bottom: 20px;
+  }
+  .banner-slider-section {
+      margin-top: 104px;
+  }
+  .logo a {
+      width: 84px;
+      padding: 0px 10px;
+  }
+  .container {
+      max-width: 950px;
+      width: 950px;
+  }
+  .header-nav ul li {
+      margin: 0px 14px;
+  }
+  .header.header-fixed .logo img {
+      max-width: 65px;
+  }
+  .header.header-fixed .header-nav ul li a {
+      font-size: 18px;
+  }
+  .container {
+      max-width: 940px;
+      width: 940px;
+  }
+  .slider-contant h1 {
+      font-size: 48px;
+      line-height: 51px;
+  }
+  .slider-contant p {
+      font-size: 20px;
+      margin: 0 0px 0px;
+  }
+  .banner-slider {
+      position: relative;
+      height: 372px;
+  }
+  .slider-contant {
+      top: 120px;
+  }
+  .about-info h2 {
+      font-size: 40px;
+  }
+  .about-info p {
+      font-size: 18px;
+      line-height: 25px;
+  }
+  .about-quotes {
+      margin-top: 35px;
+  }
+  .about-quotes p {
+      letter-spacing: 1px;
+      font-size: 30px;
+      max-width: 64%;
+      line-height: 40px;
+  }
+  .service-img-box h4 {
+      font-size: 26px;
+      line-height: 29px;
+  }
+  .service ul li .service-box {
+      height: 290px;
+  }
+  .about {
+      padding: 60px 0px 40px;
+  }
+}
+@media (max-width: 1023px) {
+  .main-footer .container {
+      width: 88%;
+  }
+  .footer-content {
+      padding-top: 0;
+  }
+  .open-menu::after{
+      position: absolute;
+      content: '';
+      top: 0;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      background-color: #000;
+      opacity: 0.7;
+  }
+  .open-menu {
+      position: relative;
+      position: fixed;
+  }
+  .menu-bar a {
+      display: block;
+      padding: 20px 0;
+  }
+  .navbar-btn {
+      margin-right: 36px;
+  }
+  .menu-bar {
+      display: block;
+      text-align: center;
+      z-index: 999;
+      position: absolute;
+      right: 10px;
+      top: 8px;
+      -webkit-transition: .7s;
+      -moz-transition: .7s;
+      transition: .7s;
+  }
+  .header-nav {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: flex-start;
+      flex-flow: column;
+      position: fixed;
+      top: 0;
+      right: -100%;
+      width: 50%;
+      height: 100%;
+      z-index: 99;
+      background: #003394;
+      transition: .7s;
+      -webkit-transition: .7s;
+      -moz-transition: .7s;
+      overflow-y: auto;
+  }
+  .header-nav ul li a {
+      color: #fbfbfb;
+      display: block;
+      border-bottom: 2px dashed rgba(255, 255, 255, 0.22);
+      padding: 15px 25px;
+  }
+  .open-menu .menu-bar .middle {
+      opacity: 0;
+      visibility: hidden;
+      display: none;
+  }
+  .open-menu .menu-bar span {
+      transform: rotate(45deg);
+      width: 35px;
+      background: #fff;
+  }
+  .open-menu .menu-bar span.last {
+      transform: rotate(-45deg);
+      width: 35px;
+      margin: -3px 0 0 !important;
+      background: #f9f9f9;
+  }
+  .header-nav ul {
+      flex-wrap: wrap;
+      margin-top: 60px;
+      width: 100%;
+  }
+  .header-nav.show-menu {
+      right: 0;
+  }
+  .menu-bar span {
+      height: 3px;
+      margin: 6px 0 0 auto;
+      width: 35px;
+      background: #b01a1a;
+      display: block;
+      -webkit-transition: .7s;
+      -moz-transition: .7s;
+      transition: .7s;
+  }
+  .modal-inner .get-free-inner {
+      margin-right: auto;
+      width: 100%;
+      margin: 0;
+  }
+  .modal-img img {
+      height: 389px;
+      object-fit: cover;
+  }
+  .modal-inner p {
+      font-size: 11px!important;
+  }
+  .modal-inner h2 {
+      font-size: 26px!important;
+  }
+  .modal-dialog {
+      max-width: 630px;
+  }
+  footer.main-footer {
+      padding: 25px 0 0;
+  }
+  .footer-bottom {
+      margin-top: 10px;
+      padding: 5px 0;
+  }
+  .get-free-section {
+      height: 530px;
+  }
+  .main-footer a {
+      font-size: 18px;
+      line-height: 33px;
+  }
+  .main-footer .logo {
+      padding-bottom: 14px;
+  }
+  .main-footer h3 {
+      font-size: 20px;
+  }
+  .contact-form .btn.btn-primary {
+      height: 46px;
+      font-size: 16px;
+  }
+  .contact-form textarea.form-control {
+      height: 112px !important;
+      padding: 8px 10px;
+  }
+  .contact-form .form-control {
+      height: 40px;
+      width: 100%;
+      margin-bottom: 15px;
+      padding: 16px 10px;
+      margin-bottom: 13px;
+      font-size: 14px;
+  }
+  .get-free-inner p {
+      font-size: 16px;
+      line-height: 12px;
+      margin-bottom: 0;
+  }
+  .get-free-inner h2 {
+      font-size: 38px;
+  }
+  .get-free-inner {
+      max-width: 580px;
+      padding: 26px 20px;
+  }
+  .get-free-section {
+      height: 560px;
+  }
+  .testimonial {
+      padding: 50px 0 100px;
+  }
+  .testimonial-slider .slick-dots {
+      bottom: -40px;
+  }
+  .testimonial-slider .slick-dots li {
+    height: 12px;
+    width: 12px;
+    margin: 0 5px;
+  }
+  .testimonial-content::before {
+      bottom: -33px;
+      height: 76px;
+      width: 67px;
+      background-size: 60px;
+      right: -25px;
+  }
+  .testimonial-content::after {
+      top: -6px;
+      right: 0;
+      left: -20px;
+      bottom: 0;
+      height: 52px;
+      width: 52px;
+      background-size: 50px;
+  }
+  .testimonial-content strong {
+      font-size: 17px;
+  }
+  .testimonial-content::before {
+      bottom: -42px;
+      height: 76px;
+      width: 57px;
+      background-size: 50px;
+      right: -25px;
+  }
+  .testimonial-content p {
+      font-size: 18px;
+      letter-spacing: 0.5px;
+      line-height: 26px;
+  }
+  .coastal-section {
+      height: 380px;
+  }
+  .coastal-content::after {
+      top: 70px;
+      left: 70px;
+      width: 80px;
+  }
+  .coastal-content::before {
+      top: 70px;
+      right: 70px;
+      width: 80px;
+  }
+  .coastal-inner p {
+      font-size: 24px;
+      letter-spacing: 0.3px;
+      padding-top: 36px;
+  }
+  .coastal-inner h2 {
+      font-size: 82px;
+      letter-spacing: 3px;
+      line-height: 60px;
+      padding-top: 42px;
+  }
+  .testimonial-content {
+      padding: 32px 50px;
+  }
+  .coastal-inner h3 {
+      font-size: 26px;
+      line-height: 35px;
+  }
+  .coastal-inner h3 {
+      font-size: 28px;
+      line-height: 36px;
+  }
+  .portfolio-section {
+      padding-bottom: 70px;
+  }
+  .portfolio-img {
+      padding: 0px 6px;
+      max-width: 33.33%;
+      margin: 4px 0px 10px;
+  }
+  .portfolio-section .nav-tabs li a {
+      font-size: 18px;
+  }
+  .heading-block {
+      margin-bottom: 16px;
+  }
+  .free-consultation-section h2 {
+      font-size: 26px;
+      letter-spacing: 1px;
+      margin-bottom: 18px;
+  }
+  .free-consultation-section {
+      padding: 40px 0px 50px;
+  }
+  .cart-box-inner h2 {
+      font-size: 18px;
+      letter-spacing: 1px;
+      margin-bottom: 10px;
+  }
+  .about-quotes p {
+      letter-spacing: 1px;
+      font-size: 26px;
+      max-width: 74%;
+      line-height: 34px;
+  }
+  .cart-box-inner p {
+      font-size: 16px;
+      letter-spacing: 0.2px;
+      margin: 0px 0px 20px;
+      line-height: 20px;
+  }
+  .service ul li .service-box {
+      height: 320px;
+  }
+  .service ul li {
+      max-width: 49%;
+      margin-bottom: 14px;
+  }
+  .service ul{
+      flex-wrap: wrap;
+  }
+  .heading-block h2 {
+      font-size: 28px;
+  }
+  .about {
+      padding: 50px 0px 30px;
+  }
+  .about-info h2 {
+    font-size: 32px;
+  }
+  .about-heading {
+      max-width: 100%;
+      padding-bottom: 20px;
+  }
+  .about-contant {
+      max-width: 100%;
+  }
+  .about-info{
+      flex-wrap: wrap;
+  }
+  .banner-slider .slick-dots {
+      bottom: 24px;
+  }
+  .slider-contant {
+      top: 90px;
+  }
+  .slider-contant p {
+      font-size: 16px;
+      margin: -8px 0px 0px;
+  }
+  .slider-contant h1 {
+      font-size: 36px;
+      line-height: 38px;
+  }
+  .banner-slider {
+      position: relative;
+      height: 280px;
+  }
+  .banner-slider-section {
+      margin-top: 84px;
+  }
+  .container {
+      max-width: 100%;
+      width: 100%;
+      padding: 0 25px;
+  }
+  .header-nav ul li a {
+      font-size: 16px;
+      padding: 15px 20px!important
+  }
+  .header-nav ul li {
+      margin: 0;
+      width: 100%;
+  }
+  .logo a {
+      width: 74px;
+      padding: 0px 10px;
+  }
+
+}
+@media (max-width: 767px) {
+  .about {
+      padding: 30px 0px 30px;
+  }
+  .service ul {
+      padding: 0px 20px;
+  }
+  .service ul li .service-box {
+      height: 304px;
+  }
+  .header.header-fixed .logo img {
+      max-width: 52px;
+  }
+  html, body{
+      overflow: scroll;
+      width: 100%;
+  }
+  .navbar-btn {
+      margin-right: 56px;
+  }
+  .menu-bar a {
+      display: block;
+      padding: 20px 10px;
+  }
+  .container {
+      max-width: 100%;
+      width: 100%;
+      padding: 0 20px;
+  }
+}
+@media (max-width: 580px) {
+    .portfolio-img {
+        max-width: 99%;
+    }
+    .portfolio-section .nav-tabs .nav-link::after {
+        display: none;
+    }
+    .portfolio-section .nav-tabs .nav-link.active::after {
+        bottom: 0;
+        left: -4px;
+        right: auto;
+        width: 6px;
+        height: 100%;
+        display: block;
+    }
+    .portfolio-section .nav-tabs li a {
+        overflow: unset;
+        padding: 5px 15px 5px;
+    }
+    .portfolio-section .nav-tabs {
+        flex-wrap: wrap;
+        border-left: 2px solid #ddd;
+        border-bottom: 0;
+        text-align: left;
+        padding: 10px 0;
+    }
+    .portfolio-section .nav-tabs>li {
+        flex: 100%;
+        float: none;
+    }
+    .portfolio-section .nav-tabs .nav-link.active::after {
+        bottom: 0;
+        left: -3px;
+        right: auto;
+        width: 4px;
+        height: 100%;
+        display: block;
+    }
+    .portfolio-section .nav-tabs {
+        flex-wrap: wrap;
+        border-left: 2px solid #ddd;
+        border-bottom: 0;
+        text-align: left;
+        padding: 0;
+    }
+}
+@media (max-width: 480px) {
+  .main-footer .container {
+      width: 100%;
+      flex-wrap: wrap;
+  }
+  .footer-content {
+    padding-top: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .footer-content.elmore {
+      text-align: center;
+      padding-top: 20px;
+      padding-bottom: 14px;
+  }
+  .main-footer .logo {
+      padding-bottom: 15px;
+      width: 100%;
+  }
+  .modal-inner h2 {
+      font-size: 22px!important;
+  }
+  .modal-header button.close {
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    top: 11px;
+    right: 7px;
+  }
+  .modal-img{
+      display: none;
+  }
+  .get-free-section {
+      height: auto;
+      padding: 50px 0;
+  }
+  .form-group {
+      width: 100%;
+      padding: 0 10px;
+      margin-bottom: 0;
+  }
+  .testimonial-content p {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    line-height: 23px;
+  }
+  .get-free-inner h2 {
+      font-size: 22px;
+  }
+  .get-free-inner {
+      max-width: 390px;
+      padding: 26px 10px;
+  }
+  .get-free-inner p {
+      font-size: 13px;
+      line-height: 16px;
+      margin-bottom: 0;
+  }
+  .main-footer h3 {
+      font-size: 18px;
+      text-align: center;
+      line-height: 12px;
+  }
+  footer.main-footer {
+      padding: 20px 0 0;
+  }
+  .footer-content.elmore h3 {
+      text-align: center;
+  }
+  .main-footer .logo {
+      padding-bottom: 30px;
+      width: 100%;
+      order: -1;
+  }
+  .main-footer a {
+      font-size: 16px;
+      line-height: 28px;
+  }
+  .footer-bottom p {
+      font-size: 11px;
+  }
+  .footer-bottom {
+      margin-top: 7px;
+      padding: 3px 0;
+  }
+  .contact-form textarea.form-control {
+      height: 98px !important;
+      padding: 8px 10px;
+  }
+  .contact-form .btn.btn-primary {
+      height: 38px;
+      font-size: 14px;
+      line-height: 39px;
+  }
+  .portfolio-img {
+      max-width: 99%;
+  }
+  .portfolio-section .nav-tabs .nav-link::after {
+      display: none;
+  }
+
+  .portfolio-section .nav-tabs li a{
+     overflow: unset;
+  }
+
+  .portfolio-section .nav-tabs>li {
+      flex: 100%;
+      float: none;
+  }
+  .navbar-btn {
+      position: fixed;
+      transform: rotate(90deg);
+      top: 0;
+      bottom: 0;
+      margin: auto;
+      left: -39px;
+  }
+  .coastal-inner h3 {
+      font-size: 17px;
+      line-height: 16px;
+  }
+  .about-info p {
+      font-size: 16px;
+      line-height: 23px;
+  }
+  .free-consultation-section {
+      padding: 10px 0px 30px;
+  }
+  .free-consultation-section h2 {
+      font-size: 20px;
+      letter-spacing: 1px;
+      margin-bottom: 17px;
+  }
+  .service ul li .service-box img {
+      width: 100%;
+      height: 350px;
+      object-fit: cover;
+  }
+  .service ul li .service-box {
+      height: 354px;
+  }
+  .about-quotes {
+      margin-top: 15px;
+  }
+  .about-quotes p {
+      letter-spacing: 1px;
+      font-size: 22px;
+      max-width: 100%;
+      line-height: 28px;
+  }
+  .service ul li {
+      max-width: 100%;
+      margin-bottom: 14px;
+  }
+  .about {
+      padding: 80px 0px 30px;
+  }
+  .header-nav{
+      width: 100%;
+  }
+  .about-info h2 {
+      font-size: 24px;
+  }
+  .banner-slider .slick-dots {
+      bottom: -20px;
+  }
+  .slider-contant {
+      top: 120px;
+  }
+  .slider-contant p {
+      font-size: 15px;
+      margin: -8px 0px 0px;
+  }
+  .slider-contant h1 {
+      font-size: 32px;
+      line-height: 35px;
+  }
+  .banner-slider .slick-slide img {
+      height: 320px;
+      width: 100%;
+      object-fit: cover;
+  }
+  .header-fixed .navbar-btn {
+      display: none;
+  }
+  .portfolio-section {
+      padding-bottom: 40px;
+  }
+  .testimonial-slider .slick-slide>div {
+      margin: 0 12px;
+  }
+  .testimonial-content {
+      padding: 22px 38px;
+  }
+  .testimonial-content::after {
+      top: -6px;
+      right: 0;
+      left: -20px;
+      bottom: 0;
+      height: 52px;
+      width: 52px;
+      background-size: 50px;
+  }
+  .coastal-content::after {
+      top: 55px;
+      left: 0;
+      width: 30px;
+  }
+  .coastal-content::before {
+      top: 55px;
+      right: 0;
+      width: 30px;
+  }
+  .coastal-section {
+      height: auto;
+      padding: 36px 0 20px;
+  }
+  .coastal-inner p {
+      font-size: 17px;
+      letter-spacing: 0.3px;
+      padding-top: 18px;
+  }
+  .coastal-inner span {
+      font-size: 15px;
+      letter-spacing: 0.5px;
+  }
+  .coastal-inner h2 {
+      font-size: 52px;
+      letter-spacing: 3px;
+      line-height: 31px;
+      padding-top: 38px;
+  }
+  .navbar-btn {
+      display: none;
+   }
+  .heading-block h2 {
+      font-size: 24px;
+  }
+}
+@media (max-width: 320px) {
+  .get-free-inner h2 {
+      font-size: 18px;
+  }
+  .get-free-inner p {
+      font-size: 12px;
+      line-height: 16px;
+      margin-bottom: 0;
+  }
+  .modal-inner h2 {
+      font-size: 20px!important;
+  }
+  .modal {
+      position: fixed;
+      top: 6%;
+  }
+  .testimonial-content::after {
+      top: -6px;
+      right: 0;
+      left: -16px;
+      bottom: 0;
+      height: 32px;
+      width: 34px;
+      background-size: 40px;
+  }
+  .main-footer .logo {
+      padding-bottom: 10px;
+  }
+  .testimonial-content strong {
+      font-size: 16px;
+  }
+  .main-footer h3 {
+      font-size: 16px;
+  }
+  .main-footer a {
+      font-size: 15px;
+      line-height: 25px;
+  }
+  .footer-bottom p {
+      font-size: 9px;
+  }
+  .testimonial-content::before {
+      bottom: -42px;
+      height: 71px;
+      width: 47px;
+      background-size: 40px;
+      right: -20px;
+  }
+  .testimonial-content {
+      padding: 20px 22px;
+  }
+  .testimonial {
+      padding: 40px 0 80px;
+  }
+  .coastal-inner h2 {
+      font-size: 42px;
+      letter-spacing: 3px;
+      line-height: 18px;
+      padding-top: 44px;
+  }
+  .coastal-inner p {
+      font-size: 14px;
+      letter-spacing: 0.3px;
+      padding-top: 12px;
+  }
+  .coastal-inner h3 {
+      font-size: 14px;
+      line-height: 12px;
+  }
+  .coastal-inner span {
+      font-size: 13px;
+      letter-spacing: 0.2px;
+  }
+  .service ul li .service-box {
+      height: 343px;
+  }
+  .free-consultation-section h2 {
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-bottom: 17px;
+  }
+  .cart-box-inner p {
+      font-size: 14px;
+      letter-spacing: 0.2px;
+      margin: 0px 0px 20px;
+      line-height: 19px;
+  }
+  .heading-block h2 {
+      font-size: 20px;
+  }
+  .about-quotes p {
+    letter-spacing: 1px;
+    font-size: 20px;
+    max-width: 100%;
+    line-height: 26px;
+  }
+}
+@media all and (max-width: 767px) and (orientation : landscape) {
+  .modal-header button.close {
+    font-size: 35px;
+    width: 40px;
+    height: 40px;
+    top: 14px;
+    right: 9px;
+    border-radius: 100%;
+    z-index: 1;
+  }
+  .modal-body .contact-form .form-control{
+      margin-bottom: 10px;
+      font-size: 12px;
+      height: 30px;
+  }
+  .modal-body .contact-form textarea.form-control {
+      height: 92px !important;
+      padding: 8px 10px;
+  }
+  .get-free-inner h2 {
+      font-size: 35px;
+  }
+  .modal-img img {
+      height: 358px;
+      object-fit: cover;
+  }
+  .modal {
+      position: fixed;
+      top: -2%;
+  }
+  .banner-slider .slick-slide img {
+      height: 330px;
+      width: 100%;
+      object-fit: cover;
+  }
+  .get-free-inner p {
+      font-size: 14px;
+      line-height: 12px;
+      margin-bottom: 0;
+  }
+  .coastal-content::after {
+      top: 70px;
+      left: 10px;
+      width: 50px;
+  }
+  .portfolio-section .nav-tabs li a {
+      font-size: 14px;
+  }
+  .about-info h2 {
+      font-size: 24px;
+  }
+  .modal-inner h2 {
+      font-size: 24px!important;
+  }
+  .about-info p {
+      font-size: 16px;
+      line-height: 25px;
+  }
+  .heading-block h2 {
+      font-size: 20px;
+  }
+  .about-quotes p {
+      letter-spacing: 1px;
+      font-size: 22px;
+      max-width: 100%;
+      line-height: 30px;
+  }
+  .coastal-content::before {
+      top: 70px;
+      right: 10px;
+      width: 50px;
+  }
+  .banner-slider {
+      position: relative;
+      height: 330px;
+  }
+  .slider-contant {
+      top: 100px;
+  }
+}
